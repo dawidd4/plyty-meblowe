@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+<style>
+  .b{
+    fill:none;
+    stroke-width:2;
+    stroke:rgba(0,63,0,.09375);
+  }
+</style>
+  <metadata>
+    image&#x2F;svg+xml
+  </metadata>
+    <title>
+      background
+    </title>
+    <title>
+      Layer 1
+    </title>
+      <rect width="777" height="574" x="10" y="15" class="b"/>
+      <rect y="18" x="13" height="567" width="771" class="b"/>
+      <path d="m740 18l0 567" class="b"/>
+      <path d="m13 140l727 0" class="b"/>
+      <path d="m13 501l727 0" class="b"/>
+      <path d="m13 561l727 0" class="b"/>
+      <path d="m194 18l0 121" class="b"/>
+      <path d="m134 140l0 361" class="b"/>
+      <path d="m13 320l121 0" class="b"/>
+      <path d="m347 501l0 60" class="b"/>
+      <path d="m682 501l0 60" class="b"/>
+      <path d="m376 18l0 121" class="b"/>
+      <path d="m558 18l0 121" class="b"/>
+      <path d="m134 390l606 0" class="b"/>
+      <path d="m300 140l0 250" class="b"/>
+      <path d="m134 265l166 0" class="b"/>
+      <path d="m300 387l440 0" class="b"/>
+      <path d="m468 140l0 247" class="b"/>
+      <path d="m636 140l0 247" class="b"/>
+      <path d="m696 140l0 247" class="b"/>
+      <path d="m636 377l60 0" class="b"/>
+      <path d="m300 263l336 0" class="b"/>
+      <path d="m593 390l0 111" class="b"/>
+      <path d="m426 390l0 111" class="b"/>
+      <path d="m134 451l292 0" class="b"/>
+      <path d="m299 451l0 50" class="b"/>
+      <path d="m426 496l167 0" class="b"/>
+</svg>

@@ -1,5 +1,17 @@
+.background-cuttingboard {
+    position: fixed;
+    top: 48vh;
+    left: calc(50vw - 64vh);
+    width: 128vh;
+    height: 96vh;
+    transform: rotate(15deg);
+    background-image: url('assets/images/background_boardcutting.svg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
 .abc-title {
-    padding-top: 30vh;
+    padding-top: 37vh;
     animation: fade-in 500ms;
 }
 
@@ -7,3 +19,4 @@
     from { opacity: 0;}
     to { opacity: 1;}
 }
+
